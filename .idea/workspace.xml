@@ -543,7 +543,7 @@
     <property name="SearchEverywhereHistoryKey" value="firef&#9;FILE&#9;jar://C:/Users/user/.gradle/caches/modules-2/files-2.1/org.seleniumhq.selenium/selenium-firefox-driver/2.53.1/4c328d95c79c9a8700e7e80182974785d3a4dd28/selenium-firefox-driver-2.53.1-sources.jar!/org/openqa/selenium/firefox/FirefoxDriver.java&#10;chromed&#9;PSI&#9;JAVA://org.openqa.selenium.chrome.ChromeDriver&#10;gecko&#9;PSI&#9;JAVA://org.openqa.selenium.firefox.GeckoDriverService" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542112631672" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542112684158" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
