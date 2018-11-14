@@ -1,4 +1,4 @@
-package vlad;
+package vlad.model;
 
 public class GroupData {
     private final String groupName;
